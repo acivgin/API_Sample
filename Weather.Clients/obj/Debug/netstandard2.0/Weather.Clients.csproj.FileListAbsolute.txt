@@ -1,0 +1,11 @@
+C:\Users\Developer\Desktop\AppsFactory-Project\AppsFactory-Project\Backend\Weather\Weather.Clients\bin\Debug\netstandard2.0\Weather.Clients.deps.json
+C:\Users\Developer\Desktop\AppsFactory-Project\AppsFactory-Project\Backend\Weather\Weather.Clients\bin\Debug\netstandard2.0\Weather.Clients.dll
+C:\Users\Developer\Desktop\AppsFactory-Project\AppsFactory-Project\Backend\Weather\Weather.Clients\bin\Debug\netstandard2.0\Weather.Clients.pdb
+C:\Users\Developer\Desktop\AppsFactory-Project\AppsFactory-Project\Backend\Weather\Weather.Clients\bin\Debug\netstandard2.0\Weather.Core.dll
+C:\Users\Developer\Desktop\AppsFactory-Project\AppsFactory-Project\Backend\Weather\Weather.Clients\bin\Debug\netstandard2.0\Weather.Core.pdb
+C:\Users\Developer\Desktop\AppsFactory-Project\AppsFactory-Project\Backend\Weather\Weather.Clients\obj\Debug\netstandard2.0\Weather.Clients.csprojAssemblyReference.cache
+C:\Users\Developer\Desktop\AppsFactory-Project\AppsFactory-Project\Backend\Weather\Weather.Clients\obj\Debug\netstandard2.0\Weather.Clients.AssemblyInfoInputs.cache
+C:\Users\Developer\Desktop\AppsFactory-Project\AppsFactory-Project\Backend\Weather\Weather.Clients\obj\Debug\netstandard2.0\Weather.Clients.AssemblyInfo.cs
+C:\Users\Developer\Desktop\AppsFactory-Project\AppsFactory-Project\Backend\Weather\Weather.Clients\obj\Debug\netstandard2.0\Weather.Clients.csproj.CopyComplete
+C:\Users\Developer\Desktop\AppsFactory-Project\AppsFactory-Project\Backend\Weather\Weather.Clients\obj\Debug\netstandard2.0\Weather.Clients.dll
+C:\Users\Developer\Desktop\AppsFactory-Project\AppsFactory-Project\Backend\Weather\Weather.Clients\obj\Debug\netstandard2.0\Weather.Clients.pdb

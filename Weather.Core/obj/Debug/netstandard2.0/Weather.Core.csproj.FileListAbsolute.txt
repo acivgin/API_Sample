@@ -1,0 +1,7 @@
+C:\Users\Developer\Desktop\AppsFactory-Project\AppsFactory-Project\Backend\Weather\Weather.Core\bin\Debug\netstandard2.0\Weather.Core.deps.json
+C:\Users\Developer\Desktop\AppsFactory-Project\AppsFactory-Project\Backend\Weather\Weather.Core\bin\Debug\netstandard2.0\Weather.Core.dll
+C:\Users\Developer\Desktop\AppsFactory-Project\AppsFactory-Project\Backend\Weather\Weather.Core\bin\Debug\netstandard2.0\Weather.Core.pdb
+C:\Users\Developer\Desktop\AppsFactory-Project\AppsFactory-Project\Backend\Weather\Weather.Core\obj\Debug\netstandard2.0\Weather.Core.AssemblyInfoInputs.cache
+C:\Users\Developer\Desktop\AppsFactory-Project\AppsFactory-Project\Backend\Weather\Weather.Core\obj\Debug\netstandard2.0\Weather.Core.AssemblyInfo.cs
+C:\Users\Developer\Desktop\AppsFactory-Project\AppsFactory-Project\Backend\Weather\Weather.Core\obj\Debug\netstandard2.0\Weather.Core.dll
+C:\Users\Developer\Desktop\AppsFactory-Project\AppsFactory-Project\Backend\Weather\Weather.Core\obj\Debug\netstandard2.0\Weather.Core.pdb
