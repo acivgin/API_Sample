@@ -14,12 +14,10 @@ namespace Weather.Api.Controllers
     public class WeatherController : ControllerBase
     {
         public readonly IWeatherService weatherService;
-        public readonly IMapper mapper;
 
-        public WeatherController(IWeatherService weatherService, IMapper mapper)
+        public WeatherController(IWeatherService weatherService)
         {
             this.weatherService = weatherService;
-            this.mapper = mapper;
         }
 
         //GET: /api/weather/forecast/{cityId}
